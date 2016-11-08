@@ -1,0 +1,15 @@
+2016-11-08 19:18:03,006 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: studyWeb:stydyweb:0.0.1-SNAPSHOT @ C:\projetos\Configurando Hibernate\configurando hibernate\pom.xml.
+2016-11-08 19:18:03,005 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: studyWeb:stydyweb:0.0.1-SNAPSHOT @ C:\projetos\Configurando Hibernate\configurando hibernate\pom.xml.
+2016-11-08 19:18:05,827 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 19:18:05,876 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 19:18:05,883 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 19:18:05,885 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 19:18:08,338 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: studyWeb:stydyweb:0.0.1-SNAPSHOT @ C:\projetos\Configurando Hibernate\configurando hibernate\pom.xml.
+2016-11-08 19:18:23,823 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 19:18:23,831 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 19:18:23,834 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 19:18:23,835 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 19:18:36,156 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 19:18:36,156 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-11-08 19:18:36,158 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-11-08 19:18:36,159 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
